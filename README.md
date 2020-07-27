@@ -1,4 +1,4 @@
-# push-swap
+# push_swap
 
 Clone the folder.
 
