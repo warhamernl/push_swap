@@ -13,7 +13,7 @@ Checker is a program that checks if the series of instruction indeed sort the se
 These are the possible instruction generated and you can read up what they do:
 
 sa : swap a - swap the first 2 elements at the top of stack a. Do nothing if there
-is only one or no elements).
+is only one or no elements). <br>
 sb : swap b - swap the first 2 elements at the top of stack b. Do nothing if there
 is only one or no elements).
 ss : sa and sb at the same time.
